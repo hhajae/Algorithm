@@ -107,7 +107,7 @@ class Solution {
             for(String key : map.keySet()) {
                 if(map.get(key) > 1) result++;
             }
-        }    
+        }
         
         return result;
         
